@@ -1,3 +1,5 @@
-this is again the same file 
+this is a readme file.
 
-created to resolve conflicts.
+this text is added purposly for conflict.
+
+this is bound to cause trouble
