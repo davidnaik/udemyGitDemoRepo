@@ -5,3 +5,5 @@ this is to understand git branching
 modifying readme for understanding conflicts
 
 this is again a conflict test, hope this works this time.
+
+this will be saved for stashing.
